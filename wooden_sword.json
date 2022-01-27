@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/wooden_sword"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 654321}, "model": "item/ping_pong_paddle"}
+   
+    ]
+   
+    
+   }
+   
+    
